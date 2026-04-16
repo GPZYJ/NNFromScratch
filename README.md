@@ -1,0 +1,1 @@
+A from-scratch neural network implementation in Python with NumPy, featuring training support.
